@@ -36,3 +36,40 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  background-color: #524892;
+}
+
+.ctn{
+  background-color: #134ec5;
+}
+
+.co{
+  color: white;
+}
+
+.co1{
+  background-color: #61dafb;
+  color: white;
+}
+
+.left{
+  margin-left: 1400%;
+}
+
+.left1{
+  margin-left: 538%;
+}
+
+.container-lg1{
+  padding-bottom: 5px;
+  margin-top: 1px;
+  text-align: left;
+  border: 1px solid black;
+  background-color: skyblue;
+}
+
+.btnm{
+  margin-left: 90%;
+}
